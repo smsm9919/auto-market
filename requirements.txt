@@ -2,3 +2,4 @@ Flask
 Flask_SQLAlchemy
 Flask_Login
 python-i18n
+gunicorn
