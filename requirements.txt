@@ -7,3 +7,4 @@ click==8.1.7
 gunicorn==22.0.0
 flask_sqlalchemy
 flask_login
+i18n
