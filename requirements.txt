@@ -1,5 +1,6 @@
-Flask==2.3.3
-Flask-Login==0.6.3
-Flask-SQLAlchemy==3.1.1
+flask==2.3.2
+flask_sqlalchemy==3.1.1
+flask_login==0.6.3
 gunicorn==21.2.0
+i18n==0.2.8
 werkzeug==2.3.7
